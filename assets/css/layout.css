@@ -1,0 +1,21 @@
+
+.navigation:hover {
+    width: 206px;
+}
+
+a:hover {
+    border: 1px solid var(--nav-color);
+    text-align: left;
+    
+}
+.navigation .logo:hover{
+    margin-top: 14px;
+    margin-left: 39px;
+    padding: 30px;
+}
+
+.home:hover {
+    text-decoration: none;
+    width: 195px;
+    background-color: #fff;
+}
